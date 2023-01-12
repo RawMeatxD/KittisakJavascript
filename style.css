@@ -10,3 +10,9 @@ button{
     border-radius: 12px;
     padding: 5px 15px 5px 15px;
 }
+form{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
