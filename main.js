@@ -35,7 +35,7 @@ function myalertBMI(){
     var num4 = document.getElementById("num4").value
     var sum = parseFloat(num3) / ((parseInt(num4)/100)*(parseInt(num4)/100))
     document.getElementById("result").innerHTML = "แสดงผลBMI : " + sum.toFixed(2)
-    alert(sum)
+    alert(sum.toFixed(2))
 }
 
 function myalert() {
